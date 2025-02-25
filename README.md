@@ -19,6 +19,12 @@ cd HairDay
 npm install
 ````
 
+##Usage
+
+To run the application locally:
+```
+npm start
+```
 ## Technologies Used
 
     JavaScript: Main programming language used for development.

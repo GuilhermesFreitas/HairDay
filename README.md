@@ -23,7 +23,8 @@ npm install
 
 To run the application locally:
 ```
-npm start
+npm run server
+npm run dev
 ```
 ## Technologies Used
 

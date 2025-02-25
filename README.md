@@ -19,7 +19,7 @@ cd HairDay
 npm install
 ````
 
-##Usage
+## Usage 
 
 To run the application locally:
 ```
